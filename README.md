@@ -5,9 +5,9 @@
 
 
 <!-- 2. プロフィール・連絡先 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+## 🧑‍💻 Hi there
 
-- 🧑‍💻 I'm a frontend engineer.
+- I'm a frontend engineer.
 <br>
 
 
@@ -23,6 +23,6 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=matsumoto-shu&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsumoto-shu&theme=vue-dark&layout=compact" />
+  <img alt="Top Langs" height="140px" src="https://github-readme-stats.vercel.app/api?username=matsumoto-shu&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsumoto-shu&theme=vue-dark&layout=compact" />
 </div>

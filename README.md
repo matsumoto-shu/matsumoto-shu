@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d4c08a96-b7f4-44de-9a33-f754ae4212a4" width="120" />
+</div>
+
 <!-- 1. GitHub username -->
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=matsumoto-shu" />
